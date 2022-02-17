@@ -1,5 +1,5 @@
 # parallelProgrammingCourse
-Parallel Programming Course | Master Students
+Parallel Programming Course | Master Students | University of Guilan
 
 Videos are available on YouTube:
 
